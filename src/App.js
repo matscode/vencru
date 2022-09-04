@@ -345,7 +345,7 @@ function App () {
                           paddingRight: '32px',
                         },
                         grow: 0,
-                        center: true,
+                        // center: true,
                       },
                     ]}
                     data={billingHistory}
